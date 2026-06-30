@@ -1,0 +1,32 @@
+{
+  "name": "hgen",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fa33az/hgen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fa33az/hgen/issues"
+  },
+  "homepage": "https://github.com/fa33az/hgen#readme",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "typescript": "^6.0.3",
+    "vite": "^8.1.0",
+    "vue": "^3.5.39",
+    "vue-tsc": "^3.3.5"
+  },
+  "dependencies": {
+    "@lucide/vue": "^1.22.0"
+  }
+}
